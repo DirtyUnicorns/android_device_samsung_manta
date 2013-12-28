@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_manta.mk \
-    $(LOCAL_DIR)/omni_manta.mk
+    $(LOCAL_DIR)/du_manta.mk
