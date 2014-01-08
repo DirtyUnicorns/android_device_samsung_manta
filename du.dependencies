@@ -1,0 +1,10 @@
+[
+    {
+      "repository": "android_kernel_samsung_manta",
+      "target_path": "kernel/samsung/manta"
+    },
+    {
+      "repository": "proprietary_vendor_samsung",
+      "target_path": "vendor/samsung"
+    }
+]
