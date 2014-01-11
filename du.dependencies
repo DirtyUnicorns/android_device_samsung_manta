@@ -1,10 +1,14 @@
 [
     {
+      "remote":  "du",
       "repository": "android_kernel_samsung_manta",
-      "target_path": "kernel/samsung/manta"
+      "target_path": "kernel/samsung/manta",
+      "revision":     "du44"
     },
     {
+      "remote":  "du",
       "repository": "proprietary_vendor_samsung",
-      "target_path": "vendor/samsung"
+      "target_path": "vendor/samsung",
+      "revision":     "du44"
     }
 ]
