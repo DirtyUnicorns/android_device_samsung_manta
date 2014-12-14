@@ -1,0 +1,7 @@
+[
+ {
+   "repository":  "DirtyUnicorns/android_kernel_samsung_manta",
+   "target_path": "kernel/samsung/manta",
+   "branch":      "lollipop"
+ }
+]
