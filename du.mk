@@ -36,12 +36,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 TARGET_BOOTANIMATION_SIZE := 1440x814
 
 # Inherit from our custom product configuration
-$(call inherit-product, vendor/omni/config/common_tablet.mk)
+$(call inherit-product, vendor/du/config/common_full_tablet_wifionly.mk)
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, device/samsung/manta/device.mk)
 
 
-PRODUCT_NAME := omni_manta
+PRODUCT_NAME := du_manta
 PRODUCT_DEVICE := manta
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Nexus 10
